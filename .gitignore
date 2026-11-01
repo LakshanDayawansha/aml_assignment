@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/raw/
+
+# Editor / OS files
+.~lock.*
+.DS_Store
+.vscode/
+.idea/
